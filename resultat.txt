@@ -1,0 +1,182 @@
+---------------------------------------------------test avec la base de 100 photos par émotions
+
+Resultat avec  100 images sur toutes les émotions.
+
+Colère     32
+Degout     70
+Heureux    18
+Neutre      0
+Peur        0
+Surpris    39
+Triste     32
+
+Resultat avec 1000 images de tests sur toutes les émotions.
+
+Colère     28
+Degout     70
+Heureux    17
+Neutre      0
+Peur        0
+Surpris    36
+Triste     27
+
+-------------------------------------------------test avec la base de 1000 photos par émotions
+
+Resultat avec 100 images de tests sur toutes les émotions.
+
+Colère     59
+Degout     98
+Heureux    27
+Neutre     42
+Peur       42
+Surpris    58
+Triste     30
+
+
+Resultat avec 1 000 images de tests sur toutes les émotions.
+
+Colère     46
+Degout     99
+Heureux    30
+Neutre     36
+Peur       36
+Surpris    61
+Triste     58
+
+-------------------------------------------------test avec la base de 10 000 photos par émotions
+
+Resultat avec 100 images de tests sur toutes les émotions.
+
+Colère     99
+Degout     98
+Heureux    99
+Neutre     97
+Peur       97
+Surpris    99
+Triste     45
+
+
+Resultat avec 1000 images de tests sur toutes les émotions.
+
+Colère     100
+Degout      99
+Heureux    100
+Neutre      99
+Peur        99
+Surpris     99
+Triste      80
+
+-------------------------------------------------test avec la base du maximum de photos par émotions
+Resultat avec 100  images de tests sur toutes les émotions.
+
+Colère     99
+Degout     98
+Heureux    99
+Neutre     99
+Peur       99
+Surpris    99
+Triste      0
+
+
+Resultat avec 1000  images de tests sur toutes les émotions.
+
+Colère     100
+Degout      99
+Heureux    100
+Neutre     100
+Peur       100
+Surpris     99
+Triste      62
+
+----------------------------------------------------------------------------------------------------------
+
+Resultat avec 100  images de tests sur toutes les émotions.
+
+Colère          100
+Degout           99
+Heureux         100
+Neutre          100
+Peur            100
+Surpris         100
+Triste            0
+Succes Total     85
+dtype: int64
+
+
+Resultat avec 100  images de tests sur l'émotion  Colere/ .
+
+Colere/    100
+dtype: int64
+
+
+Resultat avec 100  images de tests sur toutes les émotions.
+
+Colère          100
+Degout           99
+Heureux         100
+Neutre          100
+Peur            100
+Surpris         100
+Triste            0
+Succes Total     85
+dtype: int64
+
+
+Resultat avec 100  images de tests sur toutes les émotions.
+
+Colère          100
+Degout           99
+Heureux         100
+Neutre          100
+Peur            100
+Surpris         100
+Triste            0
+Succes Total     85
+dtype: int64
+
+
+Resultat avec 100  images de tests sur toutes les émotions.
+
+Colère          100
+Degout           99
+Heureux         100
+Neutre          100
+Peur            100
+Surpris         100
+Triste            0
+Succes Total     85
+dtype: int64
+
+
+Resultat avec 100  images de tests sur toutes les émotions.
+
+Colère          100
+Degout           99
+Heureux         100
+Neutre          100
+Peur            100
+Surpris         100
+Triste            0
+Succes Total     85
+dtype: int64
+
+
+Resultat avec 100  images de tests sur toutes les émotions.
+
+Colère          100
+Degout           99
+Heureux         100
+Neutre          100
+Peur            100
+Surpris         100
+Triste            0
+Succes Total     85
+dtype: int64
+
+
+Resultat avec 100  images de tests sur l'émotion  Triste/ .
+
+Triste/    0
+dtype: int64
+
+
